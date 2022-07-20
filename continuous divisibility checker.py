@@ -2,7 +2,7 @@
 
 while True:
     
-    print("Enter a number: ")
+    print("Enter a number to check if it's divisable by 2 and 4, but not by 3: ")
     number=int(input())
     
     if number%2 == 0 and number%4==0 and number%3!=0:
