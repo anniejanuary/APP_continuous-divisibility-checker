@@ -1,5 +1,7 @@
 #czy liczba jest podzielna przez 2, przez 4, nie jest podzielna przez 3 (wszystkie jednocześnie)
 
+#divisible - podzielny
+
 while True:
     
     print("Enter a number to check if it's divisable by 2 and 4, but not by 3: ")
